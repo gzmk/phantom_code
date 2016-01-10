@@ -1,0 +1,20 @@
+numtrials 1
+currenttrial 1
+introtrial 0
+practicetrial -1
+------------------------
+
+trial 0
+visualpresence 1
+hapticpresence 1
+environment -1
+glossiness -1
+depth -1
+timer1 0
+block 0
+instructtrial 1
+instructtext Trial parameter file not found!
+glossresult 0
+depthresult 0
+------------------------
+

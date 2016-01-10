@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SnapConstraints", "SnapConstraints.vcproj", "{196E921D-266B-4ADA-BF86-09C6DCA4E16A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 1
+		SccProjectUniqueName0 = SnapConstraints.vcproj
+		SccProjectName0 = Perforce\u0020Project
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Perforce\u0020SCM
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{196E921D-266B-4ADA-BF86-09C6DCA4E16A}.Debug.ActiveCfg = Debug|Win32
+		{196E921D-266B-4ADA-BF86-09C6DCA4E16A}.Debug.Build.0 = Debug|Win32
+		{196E921D-266B-4ADA-BF86-09C6DCA4E16A}.Release.ActiveCfg = Release|Win32
+		{196E921D-266B-4ADA-BF86-09C6DCA4E16A}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

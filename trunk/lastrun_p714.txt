@@ -1,0 +1,9756 @@
+numtrials 650
+currenttrial 3
+introtrial 0
+practicetrial -1
+------------------------
+
+trial 0
+visualpresence 1
+hapticpresence 1
+environment -1
+glossiness -1
+depth -1
+conflict -1
+timer1 0
+block 0
+instructtrial 1
+instructtext Start Visual Trials
+glossresult 0
+depthresult 0
+------------------------
+
+trial 4
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 1
+conflict 1
+timer1 71738.7
+block 1
+instructtrial 0
+instructtext 
+glossresult 0.22016
+depthresult 0.797314
+------------------------
+
+trial 216
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 0
+conflict 0
+timer1 -6037.34
+block 1
+instructtrial 0
+instructtext 
+glossresult 0.181014
+depthresult 0.740761
+------------------------
+
+trial 127
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 6
+conflict 1
+timer1 30320
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 72
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 6
+conflict 0
+timer1 18490.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 205
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 5
+conflict 1
+timer1 -61397.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 423
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 6
+conflict 0
+timer1 56186.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 148
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 4
+conflict 1
+timer1 38826.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 401
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 7
+conflict 2
+timer1 -41989.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 319
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 7
+conflict 1
+timer1 -39525.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 49
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 7
+conflict 1
+timer1 -75525.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 47
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 6
+conflict 2
+timer1 53450.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 46
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 6
+conflict 1
+timer1 48181.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 325
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 0
+conflict 1
+timer1 -40576
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 60
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 2
+conflict 0
+timer1 24618.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 8
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 2
+conflict 2
+timer1 -73264
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 297
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 0
+conflict 0
+timer1 9173.34
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 284
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 4
+conflict 2
+timer1 -74090.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 413
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 2
+conflict 2
+timer1 39616
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 39
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 4
+conflict 0
+timer1 73616
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 219
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 1
+conflict 0
+timer1 -16192
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 356
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 1
+conflict 2
+timer1 62186.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 112
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 1
+conflict 1
+timer1 23338.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 30
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 1
+conflict 0
+timer1 -45066.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 62
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 2
+conflict 2
+timer1 32560
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 24
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 8
+conflict 0
+timer1 -77722.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 107
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 8
+conflict 2
+timer1 -18154.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 42
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 5
+conflict 0
+timer1 -78496
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 189
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 0
+conflict 0
+timer1 26362.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 303
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 2
+conflict 0
+timer1 -73381.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 155
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 6
+conflict 2
+timer1 38714.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 300
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 1
+conflict 0
+timer1 -66373.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 198
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 3
+conflict 0
+timer1 -67056
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 175
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 4
+conflict 1
+timer1 11514.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 299
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 0
+conflict 2
+timer1 -1989.33
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 1
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 0
+conflict 1
+timer1 46906.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 178
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 5
+conflict 1
+timer1 -50181.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 360
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 3
+conflict 0
+timer1 -73472
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 259
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 5
+conflict 1
+timer1 -18154.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 218
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 0
+conflict 2
+timer1 -58608
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 67
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 4
+conflict 1
+timer1 40170.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 414
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 3
+conflict 0
+timer1 8080
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 41
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 4
+conflict 2
+timer1 28304
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 131
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 7
+conflict 2
+timer1 -49338.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 3
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 1
+conflict 0
+timer1 853.329
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 262
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 6
+conflict 1
+timer1 67333.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 409
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 1
+conflict 1
+timer1 75040
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 184
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 7
+conflict 1
+timer1 -46154.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 160
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 8
+conflict 1
+timer1 -68922.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 28
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 0
+conflict 1
+timer1 -76901.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 263
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 6
+conflict 2
+timer1 -22240
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 383
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 1
+conflict 2
+timer1 12138.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 384
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 2
+conflict 0
+timer1 -47226.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 302
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 1
+conflict 2
+timer1 55994.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 234
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 6
+conflict 0
+timer1 -62128
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 425
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 6
+conflict 2
+timer1 67584
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 79
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 8
+conflict 1
+timer1 51834.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 102
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 7
+conflict 0
+timer1 -50421.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 375
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 8
+conflict 0
+timer1 66474.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 188
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 8
+conflict 2
+timer1 64949.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 223
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 2
+conflict 1
+timer1 3989.33
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 150
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 5
+conflict 0
+timer1 35317.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 345
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 7
+conflict 0
+timer1 15514.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 426
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 7
+conflict 0
+timer1 -48208
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 179
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 5
+conflict 2
+timer1 -66176
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 399
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 7
+conflict 0
+timer1 -1381.34
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 211
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 7
+conflict 1
+timer1 17946.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 164
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 0
+conflict 2
+timer1 48864
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 372
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 7
+conflict 0
+timer1 46741.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 468
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 3
+conflict 0
+timer1 -6400
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 37
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 3
+conflict 1
+timer1 -72981.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 269
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 8
+conflict 2
+timer1 -52352
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 473
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 4
+conflict 2
+timer1 65600
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 483
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 8
+conflict 0
+timer1 -28122.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 281
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 3
+conflict 2
+timer1 -19109.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 78
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 8
+conflict 0
+timer1 2826.66
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 222
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 2
+conflict 0
+timer1 -70229.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 265
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 7
+conflict 1
+timer1 55856
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 207
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 6
+conflict 0
+timer1 33381.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 123
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 5
+conflict 0
+timer1 -34570.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 92
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 3
+conflict 2
+timer1 22890.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 398
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 6
+conflict 2
+timer1 50757.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 291
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 7
+conflict 0
+timer1 19994.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 286
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 5
+conflict 1
+timer1 -50010.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 321
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 8
+conflict 0
+timer1 43520
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 2
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 0
+conflict 2
+timer1 21370.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 169
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 2
+conflict 1
+timer1 37040
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 361
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 3
+conflict 1
+timer1 30837.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 248
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 1
+conflict 2
+timer1 -49968
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 34
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 2
+conflict 1
+timer1 -79930.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 447
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 5
+conflict 0
+timer1 -74085.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 13
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 4
+conflict 1
+timer1 41866.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 43
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 5
+conflict 1
+timer1 -78346.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 306
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 3
+conflict 0
+timer1 -50069.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 427
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 7
+conflict 1
+timer1 74533.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 144
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 3
+conflict 0
+timer1 -68784
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 63
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 3
+conflict 0
+timer1 71888
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 87
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 2
+conflict 0
+timer1 11541.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 174
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 4
+conflict 0
+timer1 -68650.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 165
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 1
+conflict 0
+timer1 39589.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 275
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 1
+conflict 2
+timer1 36517.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 146
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 3
+conflict 2
+timer1 -9152
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 128
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 6
+conflict 2
+timer1 -36522.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 245
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 0
+conflict 2
+timer1 33445.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 333
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 3
+conflict 0
+timer1 71381.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 464
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 1
+conflict 2
+timer1 65013.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 416
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 3
+conflict 2
+timer1 -15274.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 465
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 2
+conflict 0
+timer1 41253.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 82
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 0
+conflict 1
+timer1 61184
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 94
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 4
+conflict 1
+timer1 -20997.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 21
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 7
+conflict 0
+timer1 -69221.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 36
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 3
+conflict 0
+timer1 72586.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 19
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 6
+conflict 1
+timer1 -21690.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 25
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 8
+conflict 1
+timer1 -41088
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 134
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 8
+conflict 2
+timer1 67989.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 77
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 7
+conflict 2
+timer1 -66085.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 136
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 0
+conflict 1
+timer1 -4186.67
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 73
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 6
+conflict 1
+timer1 1728
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 173
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 3
+conflict 2
+timer1 68202.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 417
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 4
+conflict 0
+timer1 -21210.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 374
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 7
+conflict 2
+timer1 64410.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 480
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 7
+conflict 0
+timer1 23285.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 439
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 2
+conflict 1
+timer1 -48288
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 308
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 3
+conflict 2
+timer1 -74277.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 196
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 2
+conflict 1
+timer1 21344
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 261
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 6
+conflict 0
+timer1 -21941.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 52
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 8
+conflict 1
+timer1 66048
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 402
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 8
+conflict 0
+timer1 5952
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 138
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 1
+conflict 0
+timer1 -73616
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 437
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 1
+conflict 2
+timer1 -2154.67
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 288
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 6
+conflict 0
+timer1 32341.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 231
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 5
+conflict 0
+timer1 57701.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 339
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 5
+conflict 0
+timer1 15098.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 35
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 2
+conflict 2
+timer1 -72421.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 268
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 8
+conflict 1
+timer1 -58565.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 116
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 2
+conflict 2
+timer1 -63669.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 114
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 2
+conflict 0
+timer1 -8992
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 66
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 4
+conflict 0
+timer1 34261.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 436
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 1
+conflict 1
+timer1 -39696
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 201
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 4
+conflict 0
+timer1 -53898.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 40
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 4
+conflict 1
+timer1 10490.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 132
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 8
+conflict 0
+timer1 -76645.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 117
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 3
+conflict 0
+timer1 14394.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 142
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 2
+conflict 1
+timer1 4912
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 380
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 0
+conflict 2
+timer1 35034.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 171
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 3
+conflict 0
+timer1 -33834.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 341
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 5
+conflict 2
+timer1 -12160
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 294
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 8
+conflict 0
+timer1 -37200
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 251
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 2
+conflict 2
+timer1 59472
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 236
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 6
+conflict 2
+timer1 71978.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 187
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 8
+conflict 1
+timer1 11770.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 170
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 2
+conflict 2
+timer1 -60789.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 100
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 6
+conflict 1
+timer1 -4933.33
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 55
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 0
+conflict 1
+timer1 47882.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 186
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 8
+conflict 0
+timer1 72416
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 209
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 6
+conflict 2
+timer1 -15274.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 86
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 1
+conflict 2
+timer1 26746.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 22
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 7
+conflict 1
+timer1 -32304
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 145
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 3
+conflict 1
+timer1 -74453.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 168
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 2
+conflict 0
+timer1 -25216
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 276
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 2
+conflict 0
+timer1 -68341.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 293
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 7
+conflict 2
+timer1 -45973.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 235
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 6
+conflict 1
+timer1 -74528
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 456
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 8
+conflict 0
+timer1 -47056
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 158
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 7
+conflict 2
+timer1 -1280
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 214
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 8
+conflict 1
+timer1 29253.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 190
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 0
+conflict 1
+timer1 -36469.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 185
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 7
+conflict 2
+timer1 -46368
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 484
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 8
+conflict 1
+timer1 -70741.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 273
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 1
+conflict 0
+timer1 43408
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 301
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 1
+conflict 1
+timer1 -28650.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 239
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 7
+conflict 2
+timer1 -20954.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 442
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 3
+conflict 1
+timer1 29546.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 391
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 4
+conflict 1
+timer1 19728
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 230
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 4
+conflict 2
+timer1 -69637.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 217
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 0
+conflict 1
+timer1 -22357.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 313
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 5
+conflict 1
+timer1 24037.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 318
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 7
+conflict 0
+timer1 -60800
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 156
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 7
+conflict 0
+timer1 -77130.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 139
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 1
+conflict 1
+timer1 47893.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 415
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 3
+conflict 1
+timer1 -24842.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 182
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 6
+conflict 2
+timer1 58501.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 133
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 8
+conflict 1
+timer1 65200
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 29
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 0
+conflict 2
+timer1 -78458.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 270
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 0
+conflict 0
+timer1 -73194.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 10
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 3
+conflict 1
+timer1 2181.33
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 221
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 1
+conflict 2
+timer1 -7861.33
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 247
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 1
+conflict 1
+timer1 -48917.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 249
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 2
+conflict 0
+timer1 -1168
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 357
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 2
+conflict 0
+timer1 69221.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 289
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 6
+conflict 1
+timer1 -9360
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 435
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 1
+conflict 0
+timer1 -77690.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 130
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 7
+conflict 1
+timer1 -42336
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 69
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 5
+conflict 0
+timer1 -60848
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 272
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 0
+conflict 2
+timer1 -47562.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 336
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 4
+conflict 0
+timer1 63728
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 253
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 3
+conflict 1
+timer1 -45306.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 220
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 1
+conflict 1
+timer1 60266.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 172
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 3
+conflict 1
+timer1 72458.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 122
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 4
+conflict 2
+timer1 -3845.33
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 418
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 4
+conflict 1
+timer1 51088
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 323
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 8
+conflict 2
+timer1 7637.33
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 388
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 3
+conflict 1
+timer1 -38656
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 455
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 7
+conflict 2
+timer1 -69669.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 304
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 2
+conflict 1
+timer1 -77440
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 475
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 5
+conflict 1
+timer1 -27360
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 5
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 1
+conflict 2
+timer1 65482.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 366
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 5
+conflict 0
+timer1 -5296
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 350
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 8
+conflict 2
+timer1 -24933.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 252
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 3
+conflict 0
+timer1 -11952
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 400
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 7
+conflict 1
+timer1 -17189.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 368
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 5
+conflict 2
+timer1 -35669.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 84
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 1
+conflict 0
+timer1 55098.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 454
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 7
+conflict 1
+timer1 -70794.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 328
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 1
+conflict 1
+timer1 63856
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 298
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 0
+conflict 1
+timer1 72186.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 471
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 4
+conflict 0
+timer1 60170.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 103
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 7
+conflict 1
+timer1 50138.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 246
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 1
+conflict 0
+timer1 -67056
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 434
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 0
+conflict 2
+timer1 -28725.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 322
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 8
+conflict 1
+timer1 -68437.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 140
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 1
+conflict 2
+timer1 -41306.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 354
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 1
+conflict 0
+timer1 -47578.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 243
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 0
+conflict 0
+timer1 -73818.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 88
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 2
+conflict 1
+timer1 -47290.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 407
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 0
+conflict 2
+timer1 -76864
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 26
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 8
+conflict 2
+timer1 -14693.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 53
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 8
+conflict 2
+timer1 54085.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 377
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 8
+conflict 2
+timer1 -20917.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 240
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 8
+conflict 0
+timer1 -63098.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 444
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 4
+conflict 0
+timer1 -15157.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 469
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 3
+conflict 1
+timer1 -12853.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 432
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 0
+conflict 0
+timer1 24325.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 279
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 3
+conflict 0
+timer1 -38544
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 445
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 4
+conflict 1
+timer1 59349.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 358
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 2
+conflict 1
+timer1 -74192
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 315
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 6
+conflict 0
+timer1 -66144
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 147
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 4
+conflict 0
+timer1 -58704
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 340
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 5
+conflict 1
+timer1 -5637.33
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 31
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 1
+conflict 1
+timer1 -30469.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 419
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 4
+conflict 2
+timer1 -71194.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 137
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 0
+conflict 2
+timer1 -23130.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 320
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 7
+conflict 2
+timer1 72880
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 278
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 2
+conflict 2
+timer1 -42992
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 411
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 2
+conflict 0
+timer1 -78912
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 85
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 1
+conflict 1
+timer1 68261.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 238
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 7
+conflict 1
+timer1 38261.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 403
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 8
+conflict 1
+timer1 59162.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 359
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 2
+conflict 2
+timer1 3701.33
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 311
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 4
+conflict 2
+timer1 74117.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 406
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 0
+conflict 1
+timer1 19477.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 448
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 5
+conflict 1
+timer1 -24778.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 370
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 6
+conflict 1
+timer1 -79082.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 153
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 6
+conflict 0
+timer1 -75114.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 210
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 7
+conflict 0
+timer1 46480
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 385
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 2
+conflict 1
+timer1 -66725.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 397
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 6
+conflict 1
+timer1 -62586.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 183
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 7
+conflict 0
+timer1 -64037.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 159
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 8
+conflict 0
+timer1 -61296
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 371
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 6
+conflict 2
+timer1 -2906.67
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 225
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 3
+conflict 0
+timer1 -3488
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 50
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 7
+conflict 2
+timer1 77440
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 45
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 6
+conflict 0
+timer1 -69088
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 266
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 7
+conflict 2
+timer1 -15194.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 478
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 6
+conflict 1
+timer1 -35285.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 364
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 4
+conflict 1
+timer1 -15173.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 392
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 4
+conflict 2
+timer1 -30810.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 327
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 1
+conflict 0
+timer1 -65840
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 93
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 4
+conflict 0
+timer1 23610.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 200
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 3
+conflict 2
+timer1 72048
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 90
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 3
+conflict 0
+timer1 57077.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 481
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 7
+conflict 1
+timer1 69066.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 441
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 3
+conflict 0
+timer1 75936
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 74
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 6
+conflict 2
+timer1 33541.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 80
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 8
+conflict 2
+timer1 67541.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 161
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 8
+conflict 2
+timer1 -76181.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 81
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 0
+conflict 0
+timer1 -73616
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 61
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 2
+conflict 1
+timer1 29845.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 83
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 0
+conflict 2
+timer1 50624
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 106
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 8
+conflict 1
+timer1 -52480
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 352
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 0
+conflict 1
+timer1 26090.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 108
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 0
+conflict 0
+timer1 -14496
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 118
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 3
+conflict 1
+timer1 1653.34
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 255
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 4
+conflict 0
+timer1 71210.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 167
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 1
+conflict 2
+timer1 73392
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 332
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 2
+conflict 2
+timer1 -44842.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 457
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 8
+conflict 1
+timer1 -16229.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 56
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 0
+conflict 2
+timer1 30613.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 474
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 5
+conflict 0
+timer1 4288
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 213
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 8
+conflict 0
+timer1 41274.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 405
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 0
+conflict 0
+timer1 -45893.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 166
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 1
+conflict 1
+timer1 -11322.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 452
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 6
+conflict 2
+timer1 79157.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 151
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 5
+conflict 1
+timer1 12714.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 277
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 2
+conflict 1
+timer1 -74464
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 330
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 2
+conflict 0
+timer1 -72250.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 410
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 1
+conflict 2
+timer1 -64090.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 376
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 8
+conflict 1
+timer1 7786.67
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 472
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 4
+conflict 1
+timer1 -73893.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 467
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 2
+conflict 2
+timer1 12042.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 32
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 1
+conflict 2
+timer1 -60250.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 451
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 6
+conflict 1
+timer1 -26517.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 463
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 1
+conflict 1
+timer1 -71909.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 343
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 6
+conflict 1
+timer1 -43866.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 68
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 4
+conflict 2
+timer1 -12602.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 143
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 2
+conflict 2
+timer1 -41706.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 7
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 2
+conflict 1
+timer1 -75829.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 18
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 6
+conflict 0
+timer1 30506.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 212
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 7
+conflict 2
+timer1 44901.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 135
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 0
+conflict 0
+timer1 8709.33
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 119
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 3
+conflict 2
+timer1 5210.67
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 373
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 7
+conflict 1
+timer1 -41530.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 192
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 1
+conflict 0
+timer1 18501.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 229
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 4
+conflict 1
+timer1 5706.66
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 58
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 1
+conflict 1
+timer1 29696
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 363
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 4
+conflict 0
+timer1 59872
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 283
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 4
+conflict 1
+timer1 -623.999
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 227
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 3
+conflict 2
+timer1 16533.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 115
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 2
+conflict 1
+timer1 52352
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 367
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 5
+conflict 1
+timer1 -45749.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 101
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 6
+conflict 2
+timer1 -41594.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 365
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 4
+conflict 2
+timer1 -36368
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 12
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 4
+conflict 0
+timer1 -24954.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 438
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 2
+conflict 0
+timer1 43589.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 342
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 6
+conflict 0
+timer1 29184
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 176
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 4
+conflict 2
+timer1 -42133.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 54
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 0
+conflict 0
+timer1 32394.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 215
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 8
+conflict 2
+timer1 -55525.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 228
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 4
+conflict 0
+timer1 -60602.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 59
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 1
+conflict 2
+timer1 22496
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 443
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 3
+conflict 2
+timer1 -23440
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 295
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 8
+conflict 1
+timer1 4773.33
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 267
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 8
+conflict 0
+timer1 1072
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 431
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 8
+conflict 2
+timer1 74560
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 194
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 1
+conflict 2
+timer1 -75914.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 233
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 5
+conflict 2
+timer1 -12768
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 126
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 6
+conflict 0
+timer1 -38773.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 260
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 5
+conflict 2
+timer1 74773.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 97
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 5
+conflict 1
+timer1 -14026.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 206
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 5
+conflict 2
+timer1 73210.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 461
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 0
+conflict 2
+timer1 -40229.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 381
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 1
+conflict 0
+timer1 59589.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 242
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 8
+conflict 2
+timer1 49792
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 326
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 0
+conflict 2
+timer1 -67466.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 287
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 5
+conflict 2
+timer1 -78336
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 99
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 6
+conflict 0
+timer1 46570.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 162
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 0
+conflict 0
+timer1 14757.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 51
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 8
+conflict 0
+timer1 -70496
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 110
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 0
+conflict 2
+timer1 -71797.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 95
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 4
+conflict 2
+timer1 69781.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 485
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 8
+conflict 2
+timer1 53381.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 111
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 1
+conflict 0
+timer1 11397.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 14
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 4
+conflict 2
+timer1 -74266.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 369
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 6
+conflict 0
+timer1 39504
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 177
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 5
+conflict 0
+timer1 -38453.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 9
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 3
+conflict 0
+timer1 -38373.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 244
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 0
+conflict 1
+timer1 442.667
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 191
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 0
+conflict 2
+timer1 47728
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 389
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 3
+conflict 2
+timer1 58000
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 199
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 3
+conflict 1
+timer1 17738.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 149
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 4
+conflict 2
+timer1 -2512
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 482
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 7
+conflict 2
+timer1 -74656
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 271
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 0
+conflict 1
+timer1 71274.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 348
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 8
+conflict 0
+timer1 -72485.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 387
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 3
+conflict 0
+timer1 64357.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 450
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 6
+conflict 0
+timer1 -5504
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 33
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 2
+conflict 0
+timer1 48064
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 98
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 5
+conflict 2
+timer1 -33658.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 338
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 4
+conflict 2
+timer1 -41882.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 430
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 8
+conflict 1
+timer1 -33312
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 154
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 6
+conflict 1
+timer1 65082.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 347
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 7
+conflict 2
+timer1 -60330.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 257
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 4
+conflict 2
+timer1 12474.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 152
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 5
+conflict 2
+timer1 48768
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 125
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 5
+conflict 2
+timer1 36506.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 344
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 6
+conflict 2
+timer1 -64426.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 428
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 7
+conflict 2
+timer1 29914.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 109
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 0
+conflict 1
+timer1 28314.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 353
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 0
+conflict 2
+timer1 70634.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 470
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 3
+conflict 2
+timer1 -36272
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 70
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 5
+conflict 1
+timer1 -21520
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 256
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 4
+conflict 1
+timer1 -70560
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 477
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 6
+conflict 0
+timer1 -65925.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 38
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 3
+conflict 2
+timer1 2762.67
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 224
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 2
+conflict 2
+timer1 -24160
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 237
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 7
+conflict 0
+timer1 -15978.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 424
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 6
+conflict 1
+timer1 13706.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 181
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 6
+conflict 1
+timer1 -3066.67
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 396
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 6
+conflict 0
+timer1 -74010.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 65
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 3
+conflict 2
+timer1 75808
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 250
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 2
+conflict 1
+timer1 59472
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 163
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 0
+conflict 1
+timer1 -48677.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 0
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 0
+conflict 0
+timer1 52757.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 394
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 5
+conflict 1
+timer1 27850.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 113
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 1
+conflict 2
+timer1 -64341.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 121
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 4
+conflict 1
+timer1 26005.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 453
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 7
+conflict 0
+timer1 65226.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 386
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 2
+conflict 2
+timer1 -24480
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 458
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 8
+conflict 2
+timer1 -22517.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 390
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 4
+conflict 0
+timer1 7781.33
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 254
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 3
+conflict 2
+timer1 -1141.33
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 91
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 3
+conflict 1
+timer1 47701.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 11
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 3
+conflict 2
+timer1 -63360
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 429
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 8
+conflict 0
+timer1 -18320
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 264
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 7
+conflict 0
+timer1 23616
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 395
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 5
+conflict 2
+timer1 28277.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 449
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 5
+conflict 2
+timer1 -7989.33
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 292
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 7
+conflict 1
+timer1 -16224
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 64
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 3
+conflict 1
+timer1 -59578.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 76
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 7
+conflict 1
+timer1 -54688
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 421
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 5
+conflict 1
+timer1 -75722.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 180
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 6
+depth 6
+conflict 0
+timer1 -23754.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 57
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 1
+conflict 0
+timer1 -68640
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 440
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 2
+conflict 2
+timer1 15429.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 104
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 7
+conflict 2
+timer1 -63557.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 241
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 8
+conflict 1
+timer1 13648
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 124
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 5
+conflict 1
+timer1 62688
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 331
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 2
+conflict 1
+timer1 -52778.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 309
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 4
+conflict 0
+timer1 68298.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 204
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 5
+conflict 0
+timer1 -6298.67
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 382
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 1
+conflict 1
+timer1 -66528
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 459
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 0
+conflict 0
+timer1 76645.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 412
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 2
+conflict 1
+timer1 65424
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 335
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 3
+conflict 2
+timer1 -46469.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 334
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 3
+conflict 1
+timer1 71216
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 362
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 3
+conflict 2
+timer1 33930.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 202
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 4
+conflict 1
+timer1 -16442.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 346
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 7
+conflict 1
+timer1 -11578.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 476
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 5
+conflict 2
+timer1 -67402.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 310
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 4
+conflict 1
+timer1 -33344
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 404
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 8
+conflict 2
+timer1 -68645.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 280
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 3
+conflict 1
+timer1 23472
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 120
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 4
+conflict 0
+timer1 44533.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 316
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 6
+conflict 1
+timer1 50784
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 48
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 7
+conflict 0
+timer1 -76170.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 157
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 7
+conflict 1
+timer1 76608
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 329
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 1
+conflict 2
+timer1 15664
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 337
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 4
+conflict 1
+timer1 69434.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 466
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 2
+conflict 1
+timer1 39130.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 15
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 5
+conflict 0
+timer1 -77072
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 16
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 5
+conflict 1
+timer1 3210.67
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 197
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 2
+conflict 2
+timer1 60304
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 324
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 0
+conflict 0
+timer1 -79856
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 312
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 5
+conflict 0
+timer1 -37562.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 296
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 8
+conflict 2
+timer1 -68741.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 44
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 5
+conflict 2
+timer1 -36314.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 446
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 4
+conflict 2
+timer1 -15850.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 290
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 6
+conflict 2
+timer1 -22581.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 282
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 4
+conflict 0
+timer1 54992
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 274
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 1
+conflict 1
+timer1 18165.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 379
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 0
+conflict 1
+timer1 12853.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 305
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 2
+conflict 2
+timer1 30874.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 208
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 6
+conflict 1
+timer1 -79957.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 460
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 0
+conflict 1
+timer1 7184
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 433
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 7
+depth 0
+conflict 1
+timer1 -21562.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 314
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 5
+conflict 2
+timer1 20480
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 479
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 6
+conflict 2
+timer1 34688
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 71
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 5
+conflict 2
+timer1 -7344
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 89
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 2
+conflict 2
+timer1 3861.33
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 141
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 5
+depth 2
+conflict 0
+timer1 -20261.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 27
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 1
+depth 0
+conflict 0
+timer1 -18240
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 422
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 5
+conflict 2
+timer1 37082.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 23
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 7
+conflict 2
+timer1 48485.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 232
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 5
+conflict 1
+timer1 33018.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 462
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 8
+depth 1
+conflict 0
+timer1 21418.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 307
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 3
+conflict 1
+timer1 48106.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 351
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 0
+conflict 0
+timer1 75125.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 258
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 0
+depth 5
+conflict 0
+timer1 -65616
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 105
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 8
+conflict 0
+timer1 -31536
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 349
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 3
+depth 8
+conflict 1
+timer1 18357.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 378
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 0
+conflict 0
+timer1 -68794.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 285
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 1
+depth 5
+conflict 0
+timer1 -56064
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 17
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 5
+conflict 2
+timer1 48933.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 408
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 1
+conflict 0
+timer1 -34560
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 226
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 8
+depth 3
+conflict 1
+timer1 52016
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 6
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 2
+conflict 0
+timer1 72560
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 393
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 5
+depth 5
+conflict 0
+timer1 -28048
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 193
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 1
+conflict 1
+timer1 -33221.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 203
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 4
+conflict 2
+timer1 -79493.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 420
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 6
+depth 5
+conflict 0
+timer1 -32560
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 355
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 4
+depth 1
+conflict 1
+timer1 1648
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 129
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 4
+depth 7
+conflict 0
+timer1 -54325.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 195
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 7
+depth 2
+conflict 0
+timer1 78106.7
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 75
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 2
+depth 7
+conflict 0
+timer1 -60848
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 317
+visualpresence 1
+hapticpresence 1
+environment 1
+glossiness 2
+depth 6
+conflict 2
+timer1 38928
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 20
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 0
+depth 6
+conflict 2
+timer1 -26773.3
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 96
+visualpresence 1
+hapticpresence 1
+environment 0
+glossiness 3
+depth 5
+conflict 0
+timer1 885.334
+block 1
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 0
+visualpresence 1
+hapticpresence 1
+environment -1
+glossiness -1
+depth -1
+conflict -1
+timer1 0
+block 1
+instructtrial 1
+instructtext Start Visual Haptic Trials
+glossresult -1
+depthresult -1
+------------------------
+
+trial 73
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 8
+depth 1
+conflict 0
+timer1 12981.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 8
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 0
+depth 8
+conflict 0
+timer1 7408
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 40
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 4
+depth 4
+conflict 0
+timer1 -17813.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 44
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 4
+depth 8
+conflict 0
+timer1 61253.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 117
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 4
+depth 0
+conflict 0
+timer1 66080
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 25
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 2
+depth 7
+conflict 0
+timer1 72453.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 108
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 3
+depth 0
+conflict 0
+timer1 47504
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 145
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 7
+depth 1
+conflict 0
+timer1 78240
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 41
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 4
+depth 5
+conflict 0
+timer1 -4250.66
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 83
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 0
+depth 2
+conflict 0
+timer1 -58144
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 2
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 0
+depth 2
+conflict 0
+timer1 -72688
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 100
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 2
+depth 1
+conflict 0
+timer1 44554.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 20
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 2
+depth 2
+conflict 0
+timer1 -68021.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 69
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 7
+depth 6
+conflict 0
+timer1 -72842.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 93
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 1
+depth 3
+conflict 0
+timer1 -19696
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 157
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 8
+depth 4
+conflict 0
+timer1 -68192
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 135
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 6
+depth 0
+conflict 0
+timer1 -66032
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 115
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 3
+depth 7
+conflict 0
+timer1 -46170.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 95
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 1
+depth 5
+conflict 0
+timer1 48645.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 23
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 2
+depth 5
+conflict 0
+timer1 -71045.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 77
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 8
+depth 5
+conflict 0
+timer1 -19605.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 161
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 8
+depth 8
+conflict 0
+timer1 -57136
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 72
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 8
+depth 0
+conflict 0
+timer1 -23013.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 86
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 0
+depth 5
+conflict 0
+timer1 37664
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 121
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 4
+depth 4
+conflict 0
+timer1 62426.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 51
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 5
+depth 6
+conflict 0
+timer1 17274.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 116
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 3
+depth 8
+conflict 0
+timer1 72485.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 31
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 3
+depth 4
+conflict 0
+timer1 -40725.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 139
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 6
+depth 4
+conflict 0
+timer1 -73845.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 53
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 5
+depth 8
+conflict 0
+timer1 -77509.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 128
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 5
+depth 2
+conflict 0
+timer1 -55712
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 118
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 4
+depth 1
+conflict 0
+timer1 -66736
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 113
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 3
+depth 5
+conflict 0
+timer1 35216
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 45
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 5
+depth 0
+conflict 0
+timer1 55733.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 104
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 2
+depth 5
+conflict 0
+timer1 -14965.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 114
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 3
+depth 6
+conflict 0
+timer1 -22496
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 18
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 2
+depth 0
+conflict 0
+timer1 -14544
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 12
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 1
+depth 3
+conflict 0
+timer1 71642.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 5
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 0
+depth 5
+conflict 0
+timer1 -60757.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 127
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 5
+depth 1
+conflict 0
+timer1 -67013.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 130
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 5
+depth 4
+conflict 0
+timer1 31642.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 58
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 6
+depth 4
+conflict 0
+timer1 -60261.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 50
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 5
+depth 5
+conflict 0
+timer1 3429.34
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 3
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 0
+depth 3
+conflict 0
+timer1 -21237.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 60
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 6
+depth 6
+conflict 0
+timer1 78352
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 17
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 1
+depth 8
+conflict 0
+timer1 -76362.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 67
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 7
+depth 4
+conflict 0
+timer1 45157.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 11
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 1
+depth 2
+conflict 0
+timer1 2672
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 14
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 1
+depth 5
+conflict 0
+timer1 76405.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 59
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 6
+depth 5
+conflict 0
+timer1 -400
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 125
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 4
+depth 8
+conflict 0
+timer1 -24592
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 142
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 6
+depth 7
+conflict 0
+timer1 -26528
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 76
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 8
+depth 4
+conflict 0
+timer1 3360
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 140
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 6
+depth 5
+conflict 0
+timer1 64709.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 57
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 6
+depth 3
+conflict 0
+timer1 -746.665
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 46
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 5
+depth 1
+conflict 0
+timer1 -71920
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 80
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 8
+depth 8
+conflict 0
+timer1 -5914.67
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 64
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 7
+depth 1
+conflict 0
+timer1 -59509.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 36
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 4
+depth 0
+conflict 0
+timer1 63541.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 65
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 7
+depth 2
+conflict 0
+timer1 -73936
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 22
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 2
+depth 4
+conflict 0
+timer1 29253.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 16
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 1
+depth 7
+conflict 0
+timer1 -49680
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 106
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 2
+depth 7
+conflict 0
+timer1 72016
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 136
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 6
+depth 1
+conflict 0
+timer1 -16837.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 38
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 4
+depth 2
+conflict 0
+timer1 12144
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 47
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 5
+depth 2
+conflict 0
+timer1 23072
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 35
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 3
+depth 8
+conflict 0
+timer1 78336
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 74
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 8
+depth 2
+conflict 0
+timer1 -4880
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 49
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 5
+depth 4
+conflict 0
+timer1 36976
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 131
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 5
+depth 5
+conflict 0
+timer1 51061.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 70
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 7
+depth 7
+conflict 0
+timer1 -47274.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 107
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 2
+depth 8
+conflict 0
+timer1 -10949.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 4
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 0
+depth 4
+conflict 0
+timer1 -26378.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 148
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 7
+depth 4
+conflict 0
+timer1 -54832
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 112
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 3
+depth 4
+conflict 0
+timer1 -3338.67
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 124
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 4
+depth 7
+conflict 0
+timer1 79781.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 48
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 5
+depth 3
+conflict 0
+timer1 55109.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 28
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 3
+depth 1
+conflict 0
+timer1 -9786.67
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 102
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 2
+depth 3
+conflict 0
+timer1 -64640
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 61
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 6
+depth 7
+conflict 0
+timer1 -28117.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 21
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 2
+depth 3
+conflict 0
+timer1 78912
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 143
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 6
+depth 8
+conflict 0
+timer1 57904
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 156
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 8
+depth 3
+conflict 0
+timer1 -75365.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 88
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 0
+depth 7
+conflict 0
+timer1 11824
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 155
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 8
+depth 2
+conflict 0
+timer1 -22288
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 92
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 1
+depth 2
+conflict 0
+timer1 -11728
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 68
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 7
+depth 5
+conflict 0
+timer1 -7717.33
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 138
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 6
+depth 3
+conflict 0
+timer1 5674.67
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 99
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 2
+depth 0
+conflict 0
+timer1 -26357.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 105
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 2
+depth 6
+conflict 0
+timer1 14032
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 13
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 1
+depth 4
+conflict 0
+timer1 40464
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 132
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 5
+depth 6
+conflict 0
+timer1 51786.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 119
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 4
+depth 2
+conflict 0
+timer1 50874.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 66
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 7
+depth 3
+conflict 0
+timer1 -55504
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 33
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 3
+depth 6
+conflict 0
+timer1 21797.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 159
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 8
+depth 6
+conflict 0
+timer1 5397.33
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 63
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 7
+depth 0
+conflict 0
+timer1 13477.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 30
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 3
+depth 3
+conflict 0
+timer1 -1290.66
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 94
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 1
+depth 4
+conflict 0
+timer1 -17882.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 126
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 5
+depth 0
+conflict 0
+timer1 -73706.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 24
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 2
+depth 6
+conflict 0
+timer1 -8858.67
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 150
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 7
+depth 6
+conflict 0
+timer1 -53925.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 101
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 2
+depth 2
+conflict 0
+timer1 -27952
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 32
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 3
+depth 5
+conflict 0
+timer1 -2538.67
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 71
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 7
+depth 8
+conflict 0
+timer1 -58789.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 42
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 4
+depth 6
+conflict 0
+timer1 70869.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 90
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 1
+depth 0
+conflict 0
+timer1 -4608
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 9
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 1
+depth 0
+conflict 0
+timer1 73050.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 7
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 0
+depth 7
+conflict 0
+timer1 -74218.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 62
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 6
+depth 8
+conflict 0
+timer1 71152
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 97
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 1
+depth 7
+conflict 0
+timer1 4304
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 81
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 0
+depth 0
+conflict 0
+timer1 -60501.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 129
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 5
+depth 3
+conflict 0
+timer1 -57040
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 56
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 6
+depth 2
+conflict 0
+timer1 -40629.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 144
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 7
+depth 0
+conflict 0
+timer1 -73648
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 147
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 7
+depth 3
+conflict 0
+timer1 24725.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 87
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 0
+depth 6
+conflict 0
+timer1 44880
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 15
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 1
+depth 6
+conflict 0
+timer1 43328
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 96
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 1
+depth 6
+conflict 0
+timer1 52912
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 78
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 8
+depth 6
+conflict 0
+timer1 51914.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 27
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 3
+depth 0
+conflict 0
+timer1 24277.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 75
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 8
+depth 3
+conflict 0
+timer1 53045.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 43
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 4
+depth 7
+conflict 0
+timer1 45829.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 120
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 4
+depth 3
+conflict 0
+timer1 -41242.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 55
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 6
+depth 1
+conflict 0
+timer1 -8661.33
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 122
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 4
+depth 5
+conflict 0
+timer1 52330.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 54
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 6
+depth 0
+conflict 0
+timer1 -71610.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 82
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 0
+depth 1
+conflict 0
+timer1 -17552
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 158
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 8
+depth 5
+conflict 0
+timer1 -20757.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 89
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 0
+depth 8
+conflict 0
+timer1 24624
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 79
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 8
+depth 7
+conflict 0
+timer1 59109.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 151
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 7
+depth 7
+conflict 0
+timer1 -23909.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 137
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 6
+depth 2
+conflict 0
+timer1 -62666.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 153
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 8
+depth 0
+conflict 0
+timer1 75658.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 52
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 5
+depth 7
+conflict 0
+timer1 -22682.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 0
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 0
+depth 0
+conflict 0
+timer1 73594.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 98
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 1
+depth 8
+conflict 0
+timer1 15792
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 141
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 6
+depth 6
+conflict 0
+timer1 -2976
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 10
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 1
+depth 1
+conflict 0
+timer1 -76581.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 26
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 2
+depth 8
+conflict 0
+timer1 -67221.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 152
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 7
+depth 8
+conflict 0
+timer1 -56426.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 110
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 3
+depth 2
+conflict 0
+timer1 -41168
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 111
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 3
+depth 3
+conflict 0
+timer1 -70464
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 109
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 3
+depth 1
+conflict 0
+timer1 -66208
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 6
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 0
+depth 6
+conflict 0
+timer1 -74762.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 34
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 3
+depth 7
+conflict 0
+timer1 -76138.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 146
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 7
+depth 2
+conflict 0
+timer1 70906.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 19
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 2
+depth 1
+conflict 0
+timer1 -48154.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 84
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 0
+depth 3
+conflict 0
+timer1 9717.33
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 1
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 0
+depth 1
+conflict 0
+timer1 43738.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 133
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 5
+depth 7
+conflict 0
+timer1 10160
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 160
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 8
+depth 7
+conflict 0
+timer1 -78400
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 154
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 8
+depth 1
+conflict 0
+timer1 -69530.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 134
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 5
+depth 8
+conflict 0
+timer1 -71653.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 149
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 7
+depth 5
+conflict 0
+timer1 -78400
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 103
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 2
+depth 4
+conflict 0
+timer1 46469.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 39
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 4
+depth 3
+conflict 0
+timer1 3680
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 85
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 0
+depth 4
+conflict 0
+timer1 -53045.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 29
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 3
+depth 2
+conflict 0
+timer1 -62698.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 123
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 4
+depth 6
+conflict 0
+timer1 -66474.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 91
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 1
+depth 1
+conflict 0
+timer1 18970.7
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 37
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 4
+depth 1
+conflict 0
+timer1 -19168
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+

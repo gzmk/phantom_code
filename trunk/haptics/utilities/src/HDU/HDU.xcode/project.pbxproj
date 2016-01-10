@@ -1,0 +1,856 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 39;
+	objects = {
+		034768DDFF38A45A11DB9C8B = {
+			children = (
+				8D07F2C80486CC7A007CD1D0,
+			);
+			isa = PBXGroup;
+			name = Products;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+//030
+//031
+//032
+//033
+//034
+//070
+//071
+//072
+//073
+//074
+		07C3940307F21E7400A7C700 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = HD.framework;
+			path = /Library/Frameworks/HD.framework;
+			refType = 0;
+			sourceTree = "<absolute>";
+		};
+		07C3940407F21E7400A7C700 = {
+			fileRef = 07C3940307F21E7400A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3940707F21EF700A7C700 = {
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 7;
+			files = (
+				07C3941A07F21F5F00A7C700,
+				07C3941807F21F5F00A7C700,
+				07C3941607F21F5F00A7C700,
+				07C3941707F21F5F00A7C700,
+				07C3941907F21F5F00A7C700,
+				07C3941B07F21F5F00A7C700,
+				07C3941C07F21F5F00A7C700,
+				07C3941D07F21F5F00A7C700,
+				07C3941E07F21F5F00A7C700,
+				07C3941F07F21F5F00A7C700,
+				07C3942007F21F5F00A7C700,
+				07C3942107F21F5F00A7C700,
+				07C3942207F21F5F00A7C700,
+			);
+			isa = PBXCopyFilesBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		07C3940807F21F5F00A7C700 = {
+			children = (
+				07C3940907F21F5F00A7C700,
+				07C3940A07F21F5F00A7C700,
+				07C3940B07F21F5F00A7C700,
+				07C3940C07F21F5F00A7C700,
+				07C3940D07F21F5F00A7C700,
+				07C3940E07F21F5F00A7C700,
+				07C3940F07F21F5F00A7C700,
+				07C3941007F21F5F00A7C700,
+				07C3941107F21F5F00A7C700,
+				07C3941207F21F5F00A7C700,
+				07C3941307F21F5F00A7C700,
+				07C3941407F21F5F00A7C700,
+				07C3941507F21F5F00A7C700,
+			);
+			isa = PBXGroup;
+			path = src;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		07C3940907F21F5F00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = hdu.cpp;
+			path = src/hdu.cpp;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3940A07F21F5F00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = hduAfx.cpp;
+			path = src/hduAfx.cpp;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3940B07F21F5F00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = hduAfx.h;
+			path = src/hduAfx.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3940C07F21F5F00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = hduDecompose.cpp;
+			path = src/hduDecompose.cpp;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3940D07F21F5F00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = hduDecompose.h;
+			path = src/hduDecompose.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3940E07F21F5F00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = hduError.cpp;
+			path = src/hduError.cpp;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3940F07F21F5F00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = hduHapticDevice.cpp;
+			path = src/hduHapticDevice.cpp;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3941007F21F5F00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = hduLine.cpp;
+			path = src/hduLine.cpp;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3941107F21F5F00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = hduLineSegment.cpp;
+			path = src/hduLineSegment.cpp;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3941207F21F5F00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = hduMatrix.cpp;
+			path = src/hduMatrix.cpp;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3941307F21F5F00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = hduPlane.cpp;
+			path = src/hduPlane.cpp;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3941407F21F5F00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = hduQuaternion.cpp;
+			path = src/hduQuaternion.cpp;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3941507F21F5F00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = hduRecord.cpp;
+			path = src/hduRecord.cpp;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3941607F21F5F00A7C700 = {
+			fileRef = 07C3940907F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3941707F21F5F00A7C700 = {
+			fileRef = 07C3940A07F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3941807F21F5F00A7C700 = {
+			fileRef = 07C3940B07F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C3941907F21F5F00A7C700 = {
+			fileRef = 07C3940C07F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3941A07F21F5F00A7C700 = {
+			fileRef = 07C3940D07F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C3941B07F21F5F00A7C700 = {
+			fileRef = 07C3940E07F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3941C07F21F5F00A7C700 = {
+			fileRef = 07C3940F07F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3941D07F21F5F00A7C700 = {
+			fileRef = 07C3941007F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3941E07F21F5F00A7C700 = {
+			fileRef = 07C3941107F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3941F07F21F5F00A7C700 = {
+			fileRef = 07C3941207F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3942007F21F5F00A7C700 = {
+			fileRef = 07C3941307F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3942107F21F5F00A7C700 = {
+			fileRef = 07C3941407F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3942207F21F5F00A7C700 = {
+			fileRef = 07C3941507F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3942A07F21F9C00A7C700 = {
+			children = (
+				07C3945107F2211E00A7C700,
+				07C3945207F2211E00A7C700,
+				07C3945307F2211E00A7C700,
+				07C3945407F2211E00A7C700,
+				07C3945507F2211E00A7C700,
+				07C3945607F2211E00A7C700,
+				07C3945707F2211E00A7C700,
+				07C3945807F2211E00A7C700,
+				07C3945907F2211E00A7C700,
+				07C3945A07F2211E00A7C700,
+				07C3945B07F2211E00A7C700,
+				07C3945C07F2211E00A7C700,
+				07C3945D07F2211E00A7C700,
+				07C3945E07F2211E00A7C700,
+			);
+			isa = PBXGroup;
+			name = include;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		07C3945107F2211E00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = hdu.h;
+			path = include/hdu.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3945207F2211E00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = hduBoundBox.h;
+			path = include/hduBoundBox.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3945307F2211E00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = hduError.h;
+			path = include/hduError.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3945407F2211E00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = hduGenericMatrix.h;
+			path = include/hduGenericMatrix.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3945507F2211E00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = hduHapticDevice.h;
+			path = include/hduHapticDevice.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3945607F2211E00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = hduLine.h;
+			path = include/hduLine.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3945707F2211E00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = hduLineSegment.h;
+			path = include/hduLineSegment.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3945807F2211E00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = hduMath.h;
+			path = include/hduMath.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3945907F2211E00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = hduMatrix.h;
+			path = include/hduMatrix.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3945A07F2211E00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = hduPlane.h;
+			path = include/hduPlane.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3945B07F2211E00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = hduQuaternion.h;
+			path = include/hduQuaternion.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3945C07F2211E00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = hduRecord.h;
+			path = include/hduRecord.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3945D07F2211E00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = hduVector.h;
+			path = include/hduVector.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3945E07F2211E00A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = text;
+			name = hduVector.inl;
+			path = include/hduVector.inl;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C3945F07F2211E00A7C700 = {
+			fileRef = 07C3945107F2211E00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C3946007F2211E00A7C700 = {
+			fileRef = 07C3945207F2211E00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C3946107F2211E00A7C700 = {
+			fileRef = 07C3945307F2211E00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C3946207F2211E00A7C700 = {
+			fileRef = 07C3945407F2211E00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C3946307F2211E00A7C700 = {
+			fileRef = 07C3945507F2211E00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C3946407F2211E00A7C700 = {
+			fileRef = 07C3945607F2211E00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C3946507F2211E00A7C700 = {
+			fileRef = 07C3945707F2211E00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C3946607F2211E00A7C700 = {
+			fileRef = 07C3945807F2211E00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C3946707F2211E00A7C700 = {
+			fileRef = 07C3945907F2211E00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C3946807F2211E00A7C700 = {
+			fileRef = 07C3945A07F2211E00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C3946907F2211E00A7C700 = {
+			fileRef = 07C3945B07F2211E00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C3946A07F2211E00A7C700 = {
+			fileRef = 07C3945C07F2211E00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C3946B07F2211E00A7C700 = {
+			fileRef = 07C3945D07F2211E00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C3946C07F2211E00A7C700 = {
+			fileRef = 07C3945E07F2211E00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3947507F2232600A7C700 = {
+			fileRef = 07C3940907F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3947607F2232600A7C700 = {
+			fileRef = 07C3940A07F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3947707F2232600A7C700 = {
+			fileRef = 07C3940B07F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3947807F2232600A7C700 = {
+			fileRef = 07C3940C07F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3947907F2232600A7C700 = {
+			fileRef = 07C3940D07F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3947A07F2232600A7C700 = {
+			fileRef = 07C3940E07F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3947B07F2232600A7C700 = {
+			fileRef = 07C3940F07F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3947C07F2232600A7C700 = {
+			fileRef = 07C3941007F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3947D07F2232600A7C700 = {
+			fileRef = 07C3941107F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3947E07F2232600A7C700 = {
+			fileRef = 07C3941207F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3947F07F2232600A7C700 = {
+			fileRef = 07C3941307F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3948007F2232600A7C700 = {
+			fileRef = 07C3941407F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3948107F2232600A7C700 = {
+			fileRef = 07C3941507F21F5F00A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+//070
+//071
+//072
+//073
+//074
+//080
+//081
+//082
+//083
+//084
+		0867D690FE84028FC02AAC07 = {
+			buildSettings = {
+			};
+			buildStyles = (
+				4F0BB7EC011F40E904CA0E50,
+				4F0BB7ED011F40E904CA0E50,
+			);
+			hasScannedForEncodings = 1;
+			isa = PBXProject;
+			mainGroup = 0867D691FE84028FC02AAC07;
+			productRefGroup = 034768DDFF38A45A11DB9C8B;
+			projectDirPath = "";
+			targets = (
+				8D07F2BC0486CC7A007CD1D0,
+			);
+		};
+		0867D691FE84028FC02AAC07 = {
+			children = (
+				07C3942A07F21F9C00A7C700,
+				07C3940807F21F5F00A7C700,
+				07C3940307F21E7400A7C700,
+				0867D69AFE84028FC02AAC07,
+				034768DDFF38A45A11DB9C8B,
+			);
+			isa = PBXGroup;
+			name = HDU;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0867D69AFE84028FC02AAC07 = {
+			children = (
+				08FB77AAFE841565C02AAC07,
+			);
+			isa = PBXGroup;
+			name = "External Frameworks and Libraries";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		08FB77AAFE841565C02AAC07 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Carbon.framework;
+			path = /System/Library/Frameworks/Carbon.framework;
+			refType = 0;
+			sourceTree = "<absolute>";
+		};
+//080
+//081
+//082
+//083
+//084
+//4F0
+//4F1
+//4F2
+//4F3
+//4F4
+		4F0BB7EC011F40E904CA0E50 = {
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEBUGGING_SYMBOLS = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				LIBRARY_STYLE = DYNAMIC;
+				OPTIMIZATION_CFLAGS = "-O0";
+			};
+			isa = PBXBuildStyle;
+			name = Development;
+		};
+		4F0BB7ED011F40E904CA0E50 = {
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				LIBRARY_STYLE = DYNAMIC;
+				ZERO_LINK = NO;
+			};
+			isa = PBXBuildStyle;
+			name = Deployment;
+		};
+//4F0
+//4F1
+//4F2
+//4F3
+//4F4
+//8D0
+//8D1
+//8D2
+//8D3
+//8D4
+		8D07F2BC0486CC7A007CD1D0 = {
+			buildPhases = (
+				8D07F2BD0486CC7A007CD1D0,
+				8D07F2BF0486CC7A007CD1D0,
+				07C3940707F21EF700A7C700,
+				8D07F2C10486CC7A007CD1D0,
+				8D07F2C30486CC7A007CD1D0,
+				8D07F2C50486CC7A007CD1D0,
+			);
+			buildRules = (
+			);
+			buildSettings = {
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				FRAMEWORK_SEARCH_PATHS = "";
+				FRAMEWORK_VERSION = A;
+				GCC_ENABLE_TRIGRAPHS = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = NO;
+				GCC_WARN_FOUR_CHARACTER_CONSTANTS = NO;
+				GCC_WARN_UNKNOWN_PRAGMAS = NO;
+				HEADER_SEARCH_PATHS = "";
+				INFOPLIST_FILE = "";
+				LIBRARY_SEARCH_PATHS = "";
+				LIBRARY_STYLE = Dynamic;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = HDU;
+				SECTORDER_FLAGS = "";
+				WARNING_CFLAGS = "-Wmost -Wno-four-char-constants -Wno-unknown-pragmas";
+				WRAPPER_EXTENSION = framework;
+			};
+			dependencies = (
+			);
+			isa = PBXNativeTarget;
+			name = HDU;
+			productInstallPath = "$(HOME)/Library/Frameworks";
+			productName = HDU;
+			productReference = 8D07F2C80486CC7A007CD1D0;
+			productType = "com.apple.product-type.framework";
+		};
+		8D07F2BD0486CC7A007CD1D0 = {
+			buildActionMask = 2147483647;
+			files = (
+				07C3945F07F2211E00A7C700,
+				07C3946007F2211E00A7C700,
+				07C3946107F2211E00A7C700,
+				07C3946207F2211E00A7C700,
+				07C3946307F2211E00A7C700,
+				07C3946407F2211E00A7C700,
+				07C3946507F2211E00A7C700,
+				07C3946607F2211E00A7C700,
+				07C3946707F2211E00A7C700,
+				07C3946807F2211E00A7C700,
+				07C3946907F2211E00A7C700,
+				07C3946A07F2211E00A7C700,
+				07C3946B07F2211E00A7C700,
+				07C3946C07F2211E00A7C700,
+			);
+			isa = PBXHeadersBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D07F2BF0486CC7A007CD1D0 = {
+			buildActionMask = 2147483647;
+			files = (
+			);
+			isa = PBXResourcesBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D07F2C10486CC7A007CD1D0 = {
+			buildActionMask = 2147483647;
+			files = (
+				07C3947507F2232600A7C700,
+				07C3947607F2232600A7C700,
+				07C3947707F2232600A7C700,
+				07C3947807F2232600A7C700,
+				07C3947907F2232600A7C700,
+				07C3947A07F2232600A7C700,
+				07C3947B07F2232600A7C700,
+				07C3947C07F2232600A7C700,
+				07C3947D07F2232600A7C700,
+				07C3947E07F2232600A7C700,
+				07C3947F07F2232600A7C700,
+				07C3948007F2232600A7C700,
+				07C3948107F2232600A7C700,
+			);
+			isa = PBXSourcesBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D07F2C30486CC7A007CD1D0 = {
+			buildActionMask = 2147483647;
+			files = (
+				8D07F2C40486CC7A007CD1D0,
+				07C3940407F21E7400A7C700,
+			);
+			isa = PBXFrameworksBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D07F2C40486CC7A007CD1D0 = {
+			fileRef = 08FB77AAFE841565C02AAC07;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		8D07F2C50486CC7A007CD1D0 = {
+			buildActionMask = 2147483647;
+			files = (
+			);
+			isa = PBXRezBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D07F2C80486CC7A007CD1D0 = {
+			explicitFileType = wrapper.framework;
+			includeInIndex = 0;
+			isa = PBXFileReference;
+			path = HDU.framework;
+			refType = 3;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+	};
+	rootObject = 0867D690FE84028FC02AAC07;
+}

@@ -1,0 +1,6 @@
+numtrials 0
+currenttrial 0
+introtrial 0
+practicetrial 1
+------------------------
+

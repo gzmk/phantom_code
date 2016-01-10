@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HDU", "HDU.vcproj", "{5492C1CD-A8F2-4399-9AA4-6A2BAE17F465}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 1
+		SccProjectUniqueName0 = HDU.vcproj
+		SccProjectName0 = Perforce\u0020Project
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Perforce\u0020SCM
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+		ReleaseWithSymbols = ReleaseWithSymbols
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{5492C1CD-A8F2-4399-9AA4-6A2BAE17F465}.Debug.ActiveCfg = Debug|Win32
+		{5492C1CD-A8F2-4399-9AA4-6A2BAE17F465}.Debug.Build.0 = Debug|Win32
+		{5492C1CD-A8F2-4399-9AA4-6A2BAE17F465}.Release.ActiveCfg = Release|Win32
+		{5492C1CD-A8F2-4399-9AA4-6A2BAE17F465}.Release.Build.0 = Release|Win32
+		{5492C1CD-A8F2-4399-9AA4-6A2BAE17F465}.ReleaseWithSymbols.ActiveCfg = ReleaseWithSymbols|Win32
+		{5492C1CD-A8F2-4399-9AA4-6A2BAE17F465}.ReleaseWithSymbols.Build.0 = ReleaseWithSymbols|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

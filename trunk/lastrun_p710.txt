@@ -1,0 +1,48 @@
+numtrials 3
+currenttrial 0
+introtrial 0
+practicetrial -1
+------------------------
+
+trial 1
+visualpresence 1
+hapticpresence 0
+environment 1
+glossiness 0
+depth 0
+timer1 7376
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 0
+visualpresence 1
+hapticpresence 0
+environment 0
+glossiness 0
+depth 0
+timer1 37157.3
+block 0
+instructtrial 0
+instructtext 
+glossresult -1
+depthresult -1
+------------------------
+
+trial 0
+visualpresence 1
+hapticpresence 1
+environment -1
+glossiness -1
+depth -1
+timer1 0
+block 0
+instructtrial 1
+instructtext Trial parameter file not found!
+glossresult -1
+depthresult -1
+------------------------
+

@@ -1,0 +1,63 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HapticMouse", "HapticMouse\HapticMouseVS7.vcproj", "{0E60EE3C-7CAC-494D-A733-6C217DFA493D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HDU", "HDU\HDUVS7.vcproj", "{00E0BB19-E934-4FE1-AABA-65915C5A1D44}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HLU", "HLU\HLUVS7.vcproj", "{51833603-39B2-46DD-8F45-3377BF7FD5A2}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SnapConstraints", "SnapConstraints\SnapConstraintsVS7.vcproj", "{196E921D-266B-4ADA-BF86-09C6DCA4E16A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+		ReleaseAcademicEdition = ReleaseAcademicEdition
+		ReleaseWithSymbols = ReleaseWithSymbols
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{0E60EE3C-7CAC-494D-A733-6C217DFA493D}.Debug.ActiveCfg = Debug|Win32
+		{0E60EE3C-7CAC-494D-A733-6C217DFA493D}.Debug.Build.0 = Debug|Win32
+		{0E60EE3C-7CAC-494D-A733-6C217DFA493D}.Release.ActiveCfg = Release|Win32
+		{0E60EE3C-7CAC-494D-A733-6C217DFA493D}.Release.Build.0 = Release|Win32
+		{0E60EE3C-7CAC-494D-A733-6C217DFA493D}.ReleaseAcademicEdition.ActiveCfg = Release|Win32
+		{0E60EE3C-7CAC-494D-A733-6C217DFA493D}.ReleaseAcademicEdition.Build.0 = Release|Win32
+		{0E60EE3C-7CAC-494D-A733-6C217DFA493D}.ReleaseWithSymbols.ActiveCfg = Release|Win32
+		{0E60EE3C-7CAC-494D-A733-6C217DFA493D}.ReleaseWithSymbols.Build.0 = Release|Win32
+		{00E0BB19-E934-4FE1-AABA-65915C5A1D44}.Debug.ActiveCfg = Debug|Win32
+		{00E0BB19-E934-4FE1-AABA-65915C5A1D44}.Debug.Build.0 = Debug|Win32
+		{00E0BB19-E934-4FE1-AABA-65915C5A1D44}.Release.ActiveCfg = Release|Win32
+		{00E0BB19-E934-4FE1-AABA-65915C5A1D44}.Release.Build.0 = Release|Win32
+		{00E0BB19-E934-4FE1-AABA-65915C5A1D44}.ReleaseAcademicEdition.ActiveCfg = ReleaseAcademicEdition|Win32
+		{00E0BB19-E934-4FE1-AABA-65915C5A1D44}.ReleaseAcademicEdition.Build.0 = ReleaseAcademicEdition|Win32
+		{00E0BB19-E934-4FE1-AABA-65915C5A1D44}.ReleaseWithSymbols.ActiveCfg = ReleaseWithSymbols|Win32
+		{00E0BB19-E934-4FE1-AABA-65915C5A1D44}.ReleaseWithSymbols.Build.0 = ReleaseWithSymbols|Win32
+		{51833603-39B2-46DD-8F45-3377BF7FD5A2}.Debug.ActiveCfg = Debug|Win32
+		{51833603-39B2-46DD-8F45-3377BF7FD5A2}.Debug.Build.0 = Debug|Win32
+		{51833603-39B2-46DD-8F45-3377BF7FD5A2}.Release.ActiveCfg = Release|Win32
+		{51833603-39B2-46DD-8F45-3377BF7FD5A2}.Release.Build.0 = Release|Win32
+		{51833603-39B2-46DD-8F45-3377BF7FD5A2}.ReleaseAcademicEdition.ActiveCfg = ReleaseAcademicEdition|Win32
+		{51833603-39B2-46DD-8F45-3377BF7FD5A2}.ReleaseAcademicEdition.Build.0 = ReleaseAcademicEdition|Win32
+		{51833603-39B2-46DD-8F45-3377BF7FD5A2}.ReleaseWithSymbols.ActiveCfg = ReleaseWithSymbols|Win32
+		{51833603-39B2-46DD-8F45-3377BF7FD5A2}.ReleaseWithSymbols.Build.0 = ReleaseWithSymbols|Win32
+		{196E921D-266B-4ADA-BF86-09C6DCA4E16A}.Debug.ActiveCfg = Debug|Win32
+		{196E921D-266B-4ADA-BF86-09C6DCA4E16A}.Debug.Build.0 = Debug|Win32
+		{196E921D-266B-4ADA-BF86-09C6DCA4E16A}.Release.ActiveCfg = Release|Win32
+		{196E921D-266B-4ADA-BF86-09C6DCA4E16A}.Release.Build.0 = Release|Win32
+		{196E921D-266B-4ADA-BF86-09C6DCA4E16A}.ReleaseAcademicEdition.ActiveCfg = Release|Win32
+		{196E921D-266B-4ADA-BF86-09C6DCA4E16A}.ReleaseAcademicEdition.Build.0 = Release|Win32
+		{196E921D-266B-4ADA-BF86-09C6DCA4E16A}.ReleaseWithSymbols.ActiveCfg = Release|Win32
+		{196E921D-266B-4ADA-BF86-09C6DCA4E16A}.ReleaseWithSymbols.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

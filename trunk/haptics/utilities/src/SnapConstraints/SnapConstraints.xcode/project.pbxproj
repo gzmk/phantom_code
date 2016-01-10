@@ -1,0 +1,621 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 39;
+	objects = {
+		034768DDFF38A45A11DB9C8B = {
+			children = (
+				8D07F2C80486CC7A007CD1D0,
+			);
+			isa = PBXGroup;
+			name = Products;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+//030
+//031
+//032
+//033
+//034
+//070
+//071
+//072
+//073
+//074
+		07C3940707F21EF700A7C700 = {
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 7;
+			files = (
+				07C394FA07F225F200A7C700,
+				07C394FB07F225F200A7C700,
+				07C394FC07F225F200A7C700,
+				07C394FD07F225F200A7C700,
+				07C394FE07F225F200A7C700,
+				07C394FF07F225F200A7C700,
+				07C3950007F225F200A7C700,
+				07C3950107F225F200A7C700,
+				07C3950207F225F200A7C700,
+			);
+			isa = PBXCopyFilesBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		07C3940807F21F5F00A7C700 = {
+			children = (
+				07C394E807F225C400A7C700,
+				07C394E907F225C400A7C700,
+				07C394EA07F225C400A7C700,
+				07C394EB07F225C400A7C700,
+				07C394EC07F225C400A7C700,
+				07C394ED07F225C400A7C700,
+				07C394EE07F225C400A7C700,
+				07C394EF07F225C400A7C700,
+				07C394F007F225C400A7C700,
+			);
+			isa = PBXGroup;
+			path = src;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		07C3942A07F21F9C00A7C700 = {
+			children = (
+				07C394D807F225B200A7C700,
+				07C394D907F225B200A7C700,
+				07C394DA07F225B200A7C700,
+				07C394DB07F225B200A7C700,
+				07C394DC07F225B200A7C700,
+				07C394DD07F225B200A7C700,
+				07C394DE07F225B200A7C700,
+				07C394DF07F225B200A7C700,
+			);
+			isa = PBXGroup;
+			name = include;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		07C394D807F225B200A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = CompositeConstraint.h;
+			path = include/CompositeConstraint.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C394D907F225B200A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = ConstraintHolder.h;
+			path = include/ConstraintHolder.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C394DA07F225B200A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = ISnapConstraintsAPI.h;
+			path = include/ISnapConstraintsAPI.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C394DB07F225B200A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = LineConstraint.h;
+			path = include/LineConstraint.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C394DC07F225B200A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = PlaneConstraint.h;
+			path = include/PlaneConstraint.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C394DD07F225B200A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = PointConstraint.h;
+			path = include/PointConstraint.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C394DE07F225B200A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = SnapConstraint.h;
+			path = include/SnapConstraint.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C394DF07F225B200A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = StickToConstraint.h;
+			path = include/StickToConstraint.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C394E007F225B200A7C700 = {
+			fileRef = 07C394D807F225B200A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C394E107F225B200A7C700 = {
+			fileRef = 07C394D907F225B200A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C394E207F225B200A7C700 = {
+			fileRef = 07C394DA07F225B200A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C394E307F225B200A7C700 = {
+			fileRef = 07C394DB07F225B200A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C394E407F225B200A7C700 = {
+			fileRef = 07C394DC07F225B200A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C394E507F225B200A7C700 = {
+			fileRef = 07C394DD07F225B200A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C394E607F225B200A7C700 = {
+			fileRef = 07C394DE07F225B200A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C394E707F225B200A7C700 = {
+			fileRef = 07C394DF07F225B200A7C700;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		07C394E807F225C400A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = CompositeConstraint.cpp;
+			path = src/CompositeConstraint.cpp;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C394E907F225C400A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = ConstraintHolder.cpp;
+			path = src/ConstraintHolder.cpp;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C394EA07F225C400A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = LineConstraint.cpp;
+			path = src/LineConstraint.cpp;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C394EB07F225C400A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = PlaneConstraint.cpp;
+			path = src/PlaneConstraint.cpp;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C394EC07F225C400A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = PointConstraint.cpp;
+			path = src/PointConstraint.cpp;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C394ED07F225C400A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = SnapConstraint.cpp;
+			path = src/SnapConstraint.cpp;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C394EE07F225C400A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = SnapConstraintsAfx.cpp;
+			path = src/SnapConstraintsAfx.cpp;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C394EF07F225C400A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = SnapConstraintsAfx.h;
+			path = src/SnapConstraintsAfx.h;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C394F007F225C400A7C700 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = SnapConstraintsAPI.cpp;
+			path = src/SnapConstraintsAPI.cpp;
+			refType = 2;
+			sourceTree = SOURCE_ROOT;
+		};
+		07C394F107F225C400A7C700 = {
+			fileRef = 07C394E807F225C400A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C394F207F225C400A7C700 = {
+			fileRef = 07C394E907F225C400A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C394F307F225C400A7C700 = {
+			fileRef = 07C394EA07F225C400A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C394F407F225C400A7C700 = {
+			fileRef = 07C394EB07F225C400A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C394F507F225C400A7C700 = {
+			fileRef = 07C394EC07F225C400A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C394F607F225C400A7C700 = {
+			fileRef = 07C394ED07F225C400A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C394F707F225C400A7C700 = {
+			fileRef = 07C394EE07F225C400A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C394F807F225C400A7C700 = {
+			fileRef = 07C394EF07F225C400A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C394F907F225C400A7C700 = {
+			fileRef = 07C394F007F225C400A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C394FA07F225F200A7C700 = {
+			fileRef = 07C394E807F225C400A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C394FB07F225F200A7C700 = {
+			fileRef = 07C394E907F225C400A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C394FC07F225F200A7C700 = {
+			fileRef = 07C394EA07F225C400A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C394FD07F225F200A7C700 = {
+			fileRef = 07C394EB07F225C400A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C394FE07F225F200A7C700 = {
+			fileRef = 07C394EC07F225C400A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C394FF07F225F200A7C700 = {
+			fileRef = 07C394ED07F225C400A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3950007F225F200A7C700 = {
+			fileRef = 07C394EE07F225C400A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3950107F225F200A7C700 = {
+			fileRef = 07C394EF07F225C400A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		07C3950207F225F200A7C700 = {
+			fileRef = 07C394F007F225C400A7C700;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+//070
+//071
+//072
+//073
+//074
+//080
+//081
+//082
+//083
+//084
+		0867D690FE84028FC02AAC07 = {
+			buildSettings = {
+			};
+			buildStyles = (
+				4F0BB7EC011F40E904CA0E50,
+				4F0BB7ED011F40E904CA0E50,
+			);
+			hasScannedForEncodings = 1;
+			isa = PBXProject;
+			mainGroup = 0867D691FE84028FC02AAC07;
+			productRefGroup = 034768DDFF38A45A11DB9C8B;
+			projectDirPath = "";
+			targets = (
+				8D07F2BC0486CC7A007CD1D0,
+			);
+		};
+		0867D691FE84028FC02AAC07 = {
+			children = (
+				07C3942A07F21F9C00A7C700,
+				07C3940807F21F5F00A7C700,
+				0867D69AFE84028FC02AAC07,
+				034768DDFF38A45A11DB9C8B,
+			);
+			isa = PBXGroup;
+			name = HDU;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0867D69AFE84028FC02AAC07 = {
+			children = (
+				08FB77AAFE841565C02AAC07,
+			);
+			isa = PBXGroup;
+			name = "External Frameworks and Libraries";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		08FB77AAFE841565C02AAC07 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Carbon.framework;
+			path = /System/Library/Frameworks/Carbon.framework;
+			refType = 0;
+			sourceTree = "<absolute>";
+		};
+//080
+//081
+//082
+//083
+//084
+//4F0
+//4F1
+//4F2
+//4F3
+//4F4
+		4F0BB7EC011F40E904CA0E50 = {
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEBUGGING_SYMBOLS = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				LIBRARY_STYLE = DYNAMIC;
+				OPTIMIZATION_CFLAGS = "-O0";
+			};
+			isa = PBXBuildStyle;
+			name = Development;
+		};
+		4F0BB7ED011F40E904CA0E50 = {
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				LIBRARY_STYLE = DYNAMIC;
+				ZERO_LINK = NO;
+			};
+			isa = PBXBuildStyle;
+			name = Deployment;
+		};
+//4F0
+//4F1
+//4F2
+//4F3
+//4F4
+//8D0
+//8D1
+//8D2
+//8D3
+//8D4
+		8D07F2BC0486CC7A007CD1D0 = {
+			buildPhases = (
+				8D07F2BD0486CC7A007CD1D0,
+				8D07F2BF0486CC7A007CD1D0,
+				07C3940707F21EF700A7C700,
+				8D07F2C10486CC7A007CD1D0,
+				8D07F2C30486CC7A007CD1D0,
+				8D07F2C50486CC7A007CD1D0,
+			);
+			buildRules = (
+			);
+			buildSettings = {
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				FRAMEWORK_SEARCH_PATHS = "";
+				FRAMEWORK_VERSION = A;
+				GCC_ENABLE_TRIGRAPHS = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = NO;
+				GCC_WARN_FOUR_CHARACTER_CONSTANTS = NO;
+				GCC_WARN_UNKNOWN_PRAGMAS = NO;
+				HEADER_SEARCH_PATHS = "";
+				INFOPLIST_FILE = "";
+				LIBRARY_SEARCH_PATHS = "";
+				LIBRARY_STYLE = Dynamic;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = SnapConstraints;
+				SECTORDER_FLAGS = "";
+				WARNING_CFLAGS = "-Wmost -Wno-four-char-constants -Wno-unknown-pragmas";
+				WRAPPER_EXTENSION = framework;
+			};
+			dependencies = (
+			);
+			isa = PBXNativeTarget;
+			name = SnapConstraints;
+			productInstallPath = "$(HOME)/Library/Frameworks";
+			productName = HDU;
+			productReference = 8D07F2C80486CC7A007CD1D0;
+			productType = "com.apple.product-type.framework";
+		};
+		8D07F2BD0486CC7A007CD1D0 = {
+			buildActionMask = 2147483647;
+			files = (
+				07C394E007F225B200A7C700,
+				07C394E107F225B200A7C700,
+				07C394E207F225B200A7C700,
+				07C394E307F225B200A7C700,
+				07C394E407F225B200A7C700,
+				07C394E507F225B200A7C700,
+				07C394E607F225B200A7C700,
+				07C394E707F225B200A7C700,
+			);
+			isa = PBXHeadersBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D07F2BF0486CC7A007CD1D0 = {
+			buildActionMask = 2147483647;
+			files = (
+			);
+			isa = PBXResourcesBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D07F2C10486CC7A007CD1D0 = {
+			buildActionMask = 2147483647;
+			files = (
+				07C394F807F225C400A7C700,
+				07C394F107F225C400A7C700,
+				07C394F207F225C400A7C700,
+				07C394F307F225C400A7C700,
+				07C394F407F225C400A7C700,
+				07C394F507F225C400A7C700,
+				07C394F607F225C400A7C700,
+				07C394F707F225C400A7C700,
+				07C394F907F225C400A7C700,
+			);
+			isa = PBXSourcesBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D07F2C30486CC7A007CD1D0 = {
+			buildActionMask = 2147483647;
+			files = (
+				8D07F2C40486CC7A007CD1D0,
+			);
+			isa = PBXFrameworksBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D07F2C40486CC7A007CD1D0 = {
+			fileRef = 08FB77AAFE841565C02AAC07;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		8D07F2C50486CC7A007CD1D0 = {
+			buildActionMask = 2147483647;
+			files = (
+			);
+			isa = PBXRezBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D07F2C80486CC7A007CD1D0 = {
+			explicitFileType = wrapper.framework;
+			includeInIndex = 0;
+			isa = PBXFileReference;
+			path = SnapConstraints.framework;
+			refType = 3;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+	};
+	rootObject = 0867D690FE84028FC02AAC07;
+}
