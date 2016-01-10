@@ -1726,7 +1726,7 @@ int main(int argc, char **argv)
 	
 #ifndef NO_HAPTICS
 	// Initialise OpenHaptics library
-	Haptics::InitHL();
+	Haptics::InitHL(); //Haptics.cpp: line 51
 	
     // Provide a cleanup routine for handling application exit.
     atexit(Haptics::CleanupHaptics);
@@ -1744,7 +1744,7 @@ int main(int argc, char **argv)
 	}
 
 	// Load and initialise all shaders
-	SetShaders();
+	// SetShaders();
 
 	PerlinNoise::NumSegs = 56;
 	PerlinNoise::OnBuild = OnBuildPotato;

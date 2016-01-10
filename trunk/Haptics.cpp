@@ -73,7 +73,7 @@ void Haptics::InitHL()
     // Generate an ID for the sphere shape.
     gSphereShapeIdL = hlGenShapes(1);
     // gSphereShapeIdR = hlGenShapes(1);
-    
+
 	// Generate an ID for the block (for trials without haptics)
     gBlockShapeId = hlGenShapes(1);
 
@@ -87,14 +87,13 @@ void Haptics::InitHL()
 	gSliderGravityId = hlGenEffects(1);
 
     //hlTouchableFace(HL_FRONT_AND_BACK);
-    hlTouchableFace(HL_BACK);
-
+    hlTouchableFace(HL_BACK); //Sets which faces of shapes will be touchable by the haptic device.
 
 	hlAddEventCallback(HL_EVENT_TOUCH, gSphereShapeIdL,
-		HL_CLIENT_THREAD, &SphereTouchCallback, NULL);
+		HL_CLIENT_THREAD, &SphereTouchCallback, NULL); //calls the event when gSphereShapeIdL is touched
 
-	hlAddEventCallback(HL_EVENT_TOUCH, gSphereShapeIdR,
-		HL_CLIENT_THREAD, &SphereTouchCallback, NULL);
+	// hlAddEventCallback(HL_EVENT_TOUCH, gSphereShapeIdR,
+	// 	HL_CLIENT_THREAD, &SphereTouchCallback, NULL);
 
 
 	/*hlAddEventCallback(HL_EVENT_UNTOUCH, gSphereShapeIdL,
