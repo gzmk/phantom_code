@@ -733,30 +733,30 @@ void SetupGUI()
 *******************************************************************************/
 void SetShaders()
 {
-	// Initialise the global list of shaders
-	NumShaders = 1;
-	ShaderList = new ShaderMan*[NumShaders];
+	// // Initialise the global list of shaders
+	// NumShaders = 1;
+	// ShaderList = new ShaderMan*[NumShaders];
 
-	// Initialise the first shader
-	ShaderList[0] = new ShaderMan(0);
-	//ShaderList[0]->InitShader("specA.vert","specA.frag");
-	ShaderList[0]->InitShader("PerlinZshader.vert","PerlinZshader.frag");
+	// // Initialise the first shader
+	// ShaderList[0] = new ShaderMan(0);
+	// //ShaderList[0]->InitShader("specA.vert","specA.frag");
+	// ShaderList[0]->InitShader("PerlinZshader.vert","PerlinZshader.frag");
 	
 	// Declare these variables locally instead of in Globals
 	float camposL[3] = {-StereoSepDist, 0.0f, -CamDist};
 	float camposR[3] = {StereoSepDist, 0.0f, -CamDist};
 
-	// Now declare each of the shader variables we will want to
-	// adjust by registering with the ShaderMan class.
-	// Keep hold of the return values (in variables called SVar_XXX)
-	// so we can quickly reference these variables again.
-	SVar_PermTexture = ShaderList[0]->InitShaderVar("permTexture");
-	SVar_Timer = ShaderList[0]->InitShaderVar("Timer");
-	ShaderList[0]->SetUniformVar1f(SVar_Timer, Timer);
+	// // Now declare each of the shader variables we will want to
+	// // adjust by registering with the ShaderMan class.
+	// // Keep hold of the return values (in variables called SVar_XXX)
+	// // so we can quickly reference these variables again.
+	// SVar_PermTexture = ShaderList[0]->InitShaderVar("permTexture");
+	// SVar_Timer = ShaderList[0]->InitShaderVar("Timer");
+	// ShaderList[0]->SetUniformVar1f(SVar_Timer, Timer);
 
 	// Store the current shader being used for rendering
 	// (only one shader so this is zero).
-	AppStateVars.ActiveShader = 0;
+	// AppStateVars.ActiveShader = 0;
 }
 
 
@@ -1630,36 +1630,43 @@ void OnIntroTrialEnd(IntroTrial* trial)
 *******************************************************************************/
 void InitGL()
 {
+	/* initialized the display mode. 
+		GLUT_DEPTH: select a window with a depth buffer
+		GLUT_DOUBLE: select a double buffered window
+		GLUT_RGBA: select RGBA window
+	*/
 	glutInitDisplayMode(GLUT_DEPTH | GLUT_DOUBLE | GLUT_RGBA);
+
 	//glutInitWindowPosition(10,10);
 	//glutInitWindowSize(AppStateVars.ScreenWidth,AppStateVars.ScreenHeight);
 	//glutCreateWindow("GLUT GLSL");
 
+	// defines the suitable screen width and height
 	glutGameModeString("1280x1024:32@85" ); //the settings for fullscreen mode
 	glutEnterGameMode(); //set glut to fullscreen using the settings in the line above
 
 	glutDisplayFunc(OnPaint);
-	glutIdleFunc(OnIdle);
-	glutReshapeFunc(OnWindowResize);
-	glutKeyboardFunc(OnKeyboard);
+	glutIdleFunc(OnIdle); 
+	glutReshapeFunc(OnWindowResize); //gets called when the window is reshaped
+	glutKeyboardFunc(OnKeyboard); //gets called back when keyboard is used
 	glutMouseFunc(OnMouse);
 	glutMotionFunc(OnMouseMove);
-	glutSetCursor(GLUT_CURSOR_NONE);
+	glutSetCursor(GLUT_CURSOR_NONE); //make cursor invisible
 
-	SetupStereoGlobals();
+	// SetupStereoGlobals(); //Globals.cpp: 125
 
 	/*// Light for cursor
 	static const GLfloat light_model_ambient[] = {0.3f, 0.3f, 0.3f, 1.0f};
     static const GLfloat light0_diffuse[] = {0.6f, 0.6f, 0.6f, 0.9f};   
     static const GLfloat light0_direction[] = {0.0f, -0.4f, 1.0f, 0.0f}; */
         
-	glDepthFunc(GL_LEQUAL);
+	glDepthFunc(GL_LEQUAL); 
 	glEnable(GL_DEPTH_TEST);
-	glEnable(GL_LIGHTING);
-	glEnable(GL_LIGHT0);
+	glEnable(GL_LIGHTING); //If enabled and no vertex shader is active, use the current lighting parameters to compute the vertex color or index.
+	glEnable(GL_LIGHT0); //include light0 into the lihgting equation
 	//glEnable(GL_LIGHT1);
 
-	GLfloat light_ambient[] = {0.3f, 0.3f, 0.3f, 1.0f};
+	GLfloat light_ambient[] = {0.3f, 0.3f, 0.3f, 1.0f}; //4 params for RGBA
 	GLfloat light_diffuse[] = {0.6f, 0.6f, 0.6f, 0.9f};
 	GLfloat light_specular[] = { 1.0, 1.0, 1.0, 1.0 };
 	GLfloat light_position[] = { 1.0, 1.0, 1.0, 0.0 };
@@ -1672,8 +1679,10 @@ void InitGL()
 	//glLightfv(GL_LIGHT1, GL_DIFFUSE, light_diffuse);
 	//glLightfv(GL_LIGHT1, GL_SPECULAR, light_specular);
 	
+	//determines the position of the light
 	GLfloat light0Pos[] = {0.0, 10.0, 3.0};//{1.0, 2.0, 3.0, 1.0};
 	glLightfv(GL_LIGHT0, GL_POSITION, light0Pos);
+
 	//GLfloat light1Pos[] = {0.2, 0.2, 3.0};//{1.0, 2.0, 3.0, 1.0};
 	//glLightfv(GL_LIGHT0, GL_POSITION, light1Pos);
 	glLightModeli(GL_LIGHT_MODEL_TWO_SIDE,1);
@@ -1710,10 +1719,10 @@ void InitGL()
 *******************************************************************************/
 int main(int argc, char **argv)
 {
-    glutInit(&argc, argv);
+    glutInit(&argc, argv); //initializes the GLUT library
 
 	// Initialise GLUT
-	InitGL();
+	InitGL(); //line: 1631
 	
 #ifndef NO_HAPTICS
 	// Initialise OpenHaptics library

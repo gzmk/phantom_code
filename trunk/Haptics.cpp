@@ -50,6 +50,7 @@ void HLCALLBACK SphereUnTouchCallback(
 *******************************************************************************/
 void Haptics::InitHL()
 {
+	//track device errors
     HDErrorInfo error;
 
     ghHD = hdInitDevice(HD_DEFAULT_DEVICE);
@@ -61,6 +62,7 @@ void Haptics::InitHL()
         exit(-1);
     }
     
+    //create a haptic rendering context
     ghHLRC = hlCreateContext(ghHD);
     hlMakeCurrent(ghHLRC);
 
@@ -70,7 +72,8 @@ void Haptics::InitHL()
 
     // Generate an ID for the sphere shape.
     gSphereShapeIdL = hlGenShapes(1);
-    gSphereShapeIdR = hlGenShapes(1);
+    // gSphereShapeIdR = hlGenShapes(1);
+    
 	// Generate an ID for the block (for trials without haptics)
     gBlockShapeId = hlGenShapes(1);
 

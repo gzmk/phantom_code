@@ -52,7 +52,7 @@ AppState::AppState()
 
 	SliderGravForce = 0.004f;
 
-	ActiveShader = -1;
+	// ActiveShader = -1;
 
 	CurrentTrial = -1;
 	InIntroTrial = false;
