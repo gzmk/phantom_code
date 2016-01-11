@@ -66,7 +66,7 @@ IntroTrial::IntroTrial(IntroTrialEndNotifier notifier)
 
 	_participantNumber = 0;
 
-	BuildBoundingBox();
+	BuildBoundingBox(); //line 495
 	BuildSurface();
 }
 

@@ -681,6 +681,7 @@ void SetupGUI()
 
 	AppGUI->AddButton(OKButton);
 
+	// look int both the sliders
 	GlossSlider = new SliderWidget(0, " Matte <- 0 1 2 3 4 5 6 7 8 9 10 11 12 -> Glossy");
 	GlossSlider->Red = 0.6f;
 	GlossSlider->Green = 0.1f;
@@ -688,7 +689,7 @@ void SetupGUI()
 	GlossSlider->Width = 0.13f;
 	GlossSlider->Height = 0.015f;
 	GlossSlider->Depth = 0.01f;
-	GlossSlider->Ticks = GlossSliderResolution;
+	GlossSlider->Ticks = GlossSliderResolution; // GlossSliderResolution = 12
 	GlossSlider->SetPosition(-0.065f, -0.04f, -0.03f);
 	GlossSlider->SetValue(GlossSliderResolution / 2, false);
 	
@@ -1756,7 +1757,7 @@ int main(int argc, char **argv)
 	SetupGUI(); //line 665
 
 	// Load and initialise all trials
-	SetupIntroTrial();
+	SetupIntroTrial(); //line 561
 
 	SetupNextTrial();
 
