@@ -441,7 +441,7 @@ void SetupNextTrial()
 	// and set the shader parameters for this new trial
 	// (the trial's material properties are set during haptic rendering)
 
-	if (AppStateVars.InIntroTrial)
+	if (AppStateVars.InIntroTrial) //if in intro trial
 	{
 		AppStateVars.InIntroTrial = false;
 		AppStateVars.FirstFrame = true;
@@ -456,8 +456,10 @@ void SetupNextTrial()
 			AppStateVars.ParticipantNumber = TrialIntro->GetParticipantNumber();
 			Trial::ParticipantNumber = TrialIntro->GetParticipantNumber();
 		}
-
+		
+		//Passing GL_CCW to mode selects counterclockwise polygons as front-facing
 		glFrontFace(GL_CCW); // CANT CHANGE THIS WITHOUT AFFECTING OPENHAPTICS
+		//cull back faces
 		glCullFace(GL_BACK);  // INSTEAD, WE HAVE TO CULL FRONT DUE TO NEGATIVE SCALE FACTOR
 		glEnable(GL_CULL_FACE);
 		
@@ -505,35 +507,35 @@ void SetupNextTrial()
 			AppStateVars.SaveState();
 		}
 
-		if ((AppStateVars.ActiveShader >= 0) && (AppStateVars.CurrentTrial >= 0))
-		{
-			// Set the stereo disparity in terms of camera position L and R
-			//float sepdist = StereoSepDist;// * AppStateVars.Trials[AppStateVars.CurrentTrial]->StereoDisparity;
-			float sepdist = StereoSepDist;
-			float camposL[3] = {-sepdist, 0.0f, -CamDist};
-			float camposR[3] = {sepdist, 0.0f, -CamDist};
-			Trial* currenttrial = NULL;
+		//if ((AppStateVars.ActiveShader >= 0) && (AppStateVars.CurrentTrial >= 0))
+		//{
+		//	// Set the stereo disparity in terms of camera position L and R
+		//	//float sepdist = StereoSepDist;// * AppStateVars.Trials[AppStateVars.CurrentTrial]->StereoDisparity;
+		//	float sepdist = StereoSepDist;
+		//	float camposL[3] = {-sepdist, 0.0f, -CamDist};
+		//	float camposR[3] = {sepdist, 0.0f, -CamDist};
+		//	Trial* currenttrial = NULL;
 
-			if ((AppStateVars.InPracticeTrial >= 0) && (AppStateVars.InPracticeTrial < (int)AppStateVars.PracticeTrials.size()))
-				currenttrial = AppStateVars.PracticeTrials[AppStateVars.InPracticeTrial];
-			else
-				currenttrial = AppStateVars.Trials[AppStateVars.CurrentTrial];
+		//	if ((AppStateVars.InPracticeTrial >= 0) && (AppStateVars.InPracticeTrial < (int)AppStateVars.PracticeTrials.size()))
+		//		currenttrial = AppStateVars.PracticeTrials[AppStateVars.InPracticeTrial];
+		//	else
+		//		currenttrial = AppStateVars.Trials[AppStateVars.CurrentTrial];
 
-			if (currenttrial->HapticPresence)
-			{
-				PerlinNoise::SwapUV = !PerlinNoise::SwapUV;
-				PerlinNoise::NewDisplayList = true;
+		//	if (currenttrial->HapticPresence)
+		//	{
+		//		PerlinNoise::SwapUV = !PerlinNoise::SwapUV;
+		//		PerlinNoise::NewDisplayList = true;
 
-				PerlinNoise::DrawPotato(0, currenttrial->Timer1);
-				Sleep(10);
-			}
+		//		PerlinNoise::DrawPotato(0, currenttrial->Timer1);
+		//		Sleep(10);
+		//	}
 
-			std::cout << "=== This Trial:\n";
-			std::cout << "===   Timer1: " << currenttrial->Timer1 << "\n";
-			
-			if (AppStateVars.InPracticeTrial < 0)
-				OnTrialStageEnd(currenttrial);
-		}
+		//	std::cout << "=== This Trial:\n";
+		//	std::cout << "===   Timer1: " << currenttrial->Timer1 << "\n";
+		//	
+		//	if (AppStateVars.InPracticeTrial < 0)
+		//		OnTrialStageEnd(currenttrial);
+		//}
 
 		if ((AppStateVars.InIntroTrial) && TrialIntro)
 			TrialIntro->Start();
@@ -1200,12 +1202,12 @@ void RenderSceneGraphics(void)
 
 void RenderSceneStereoGraphics(void)
 {
-	ShaderList[0]->Apply();
+	//ShaderList[0]->Apply();
 
-	// Identify the textures to use.
-	ShaderList[0]->SetUniformVar1i(SVar_PermTexture, 0); // Texture unit 0
+	//// Identify the textures to use.
+	//ShaderList[0]->SetUniformVar1i(SVar_PermTexture, 0); // Texture unit 0
 
-	ShaderList[0]->UnApply();
+	//ShaderList[0]->UnApply();
 
 	bool renderingpotato = false;
 
@@ -1288,7 +1290,7 @@ void RenderSceneStereoGraphics(void)
 						if (currenttrial->IsPracticeTrial)
 							currenttrial->Render();
 
-						ShaderList[0]->Apply();
+						//ShaderList[0]->Apply();
 						
 						if (currenttrial->GetStage() < 1)
 							ShaderList[0]->SetUniformVar1f(SVar_Timer, currenttrial->GetTimer());
@@ -1592,7 +1594,7 @@ void OnTrialStageEnd(Trial* trial)
 
 	if (currenttrial->HapticPresence)
 	{
-		ShaderList[0]->Apply();
+		//ShaderList[0]->Apply();
 
 		if (SVar_Timer >= 0)
 			ShaderList[0]->SetUniformVar1f(SVar_Timer, currenttrial->GetTimer());
