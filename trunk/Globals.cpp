@@ -122,26 +122,26 @@ float Stereo_R_t = 0.0f;
 bool CurrentlyDisablingDevice = false;
 
 
-void SetupStereoGlobals()
-{
-	float rad2deg = 180.0f / 3.14159265358979323846f;
-	float Stereo_A = 2 * StereoSepDist;
-	float Stereo_Z = CamDist;
-	float Stereo_N = CamNear;
+// void SetupStereoGlobals()
+// {
+// 	float rad2deg = 180.0f / 3.14159265358979323846f;
+// 	float Stereo_A = 2 * StereoSepDist;
+// 	float Stereo_Z = CamDist;
+// 	float Stereo_N = CamNear;
 
-	Stereo_half_fov = atan( (Stereo_h/2.0) / Stereo_Z );
-	Stereo_fov = rad2deg * ( 2.0 * Stereo_half_fov ); // fov in y direction.
+// 	Stereo_half_fov = atan( (Stereo_h/2.0) / Stereo_Z );
+// 	Stereo_fov = rad2deg * ( 2.0 * Stereo_half_fov ); // fov in y direction.
 
-	Stereo_L_l =  -( Stereo_N * ( ( (Stereo_w / 2.0f) - (Stereo_A / 2.0f) ) / Stereo_Z ) );
-	Stereo_L_r =  ( Stereo_N * ( ( (Stereo_w / 2.0f) + (Stereo_A / 2.0f) ) / Stereo_Z ) );
-	Stereo_L_b = - ( Stereo_N * ( (Stereo_h / 2.0f) / Stereo_Z) );
-	Stereo_L_t =   ( Stereo_N * ( (Stereo_h / 2.0f) / Stereo_Z) );
+// 	Stereo_L_l =  -( Stereo_N * ( ( (Stereo_w / 2.0f) - (Stereo_A / 2.0f) ) / Stereo_Z ) );
+// 	Stereo_L_r =  ( Stereo_N * ( ( (Stereo_w / 2.0f) + (Stereo_A / 2.0f) ) / Stereo_Z ) );
+// 	Stereo_L_b = - ( Stereo_N * ( (Stereo_h / 2.0f) / Stereo_Z) );
+// 	Stereo_L_t =   ( Stereo_N * ( (Stereo_h / 2.0f) / Stereo_Z) );
 
-	Stereo_R_l =  -( Stereo_N * ( ( (Stereo_w / 2.0f) + (Stereo_A / 2.0f) ) / Stereo_Z ) );
-	Stereo_R_r =  ( Stereo_N * ( ( (Stereo_w / 2.0f) - (Stereo_A / 2.0f) ) / Stereo_Z ) );
-	Stereo_R_b = - ( Stereo_N * ( (Stereo_h / 2.0f) / Stereo_Z) );
-	Stereo_R_t =   ( Stereo_N * ( (Stereo_h / 2.0f) / Stereo_Z) );
-}
+// 	Stereo_R_l =  -( Stereo_N * ( ( (Stereo_w / 2.0f) + (Stereo_A / 2.0f) ) / Stereo_Z ) );
+// 	Stereo_R_r =  ( Stereo_N * ( ( (Stereo_w / 2.0f) - (Stereo_A / 2.0f) ) / Stereo_Z ) );
+// 	Stereo_R_b = - ( Stereo_N * ( (Stereo_h / 2.0f) / Stereo_Z) );
+// 	Stereo_R_t =   ( Stereo_N * ( (Stereo_h / 2.0f) / Stereo_Z) );
+// }
 
 
 double DistanceToLineSegment(double* start, double* end, double* p, double *out_t)

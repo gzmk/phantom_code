@@ -213,7 +213,7 @@ void Haptics::CleanupHaptics()
 
     // Deallocate the sphere shape id we reserved in initHL.
     hlDeleteShapes(gSphereShapeIdL, 1);
-    hlDeleteShapes(gSphereShapeIdR, 1);
+    // hlDeleteShapes(gSphereShapeIdR, 1);
     hlDeleteShapes(gIntroShapeId, 1);
     hlDeleteShapes(gIntroBoxId, 1);
 

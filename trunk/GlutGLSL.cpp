@@ -1746,14 +1746,14 @@ int main(int argc, char **argv)
 	// Load and initialise all shaders
 	// SetShaders();
 
-	PerlinNoise::NumSegs = 56;
-	PerlinNoise::OnBuild = OnBuildPotato;
+	// PerlinNoise::NumSegs = 56;
+	// PerlinNoise::OnBuild = OnBuildPotato;
 
     // Create and load the textures (generated, not read from a file)
-    InitPermTexture(&permTextureID);
+    // InitPermTexture(&permTextureID);
 		
 	// Setup the buttons and GUI
-	SetupGUI();
+	SetupGUI(); //line 665
 
 	// Load and initialise all trials
 	SetupIntroTrial();
