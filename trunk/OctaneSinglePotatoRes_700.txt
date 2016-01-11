@@ -1,7 +1,0 @@
-OctaneSinglePotato Data File OctaneSinglePotatoRes_700.txt
-Participant Number: 700
-Date: 12/21/15, Time: 15:28:36
-=============================
-
-
-trial 1, 1, -1, -1, -1, 0, 0, 0

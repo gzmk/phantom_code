@@ -1,7 +1,0 @@
-OctaneSinglePotato trial list
-----------------------
-
-Trial Number | Haptic Presence | Environment | Glossiness | Depth | Timer 1 | Timer 2 | Timer 3 | GlossResult | DepthResult
-----------------------
-----------------------
-
